@@ -4,6 +4,7 @@ Predicting country-level mortality rates using socio-economic indicators with re
 
 **main file:** 
 - GBD_Data_Analysis.ipynb
+  - includes descriptions, visualizations, model predictions and comparisons, interpretations
 
 
 **data files:**
